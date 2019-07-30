@@ -18,6 +18,7 @@
 - [西咸新区政务](http://zw.xixianxinqu.gov.cn/) 
 - [沣东新城购房意向登记](http://111.20.241.194:801/zfrgdjpt/)
 - [沣东新城-商品房合同备案查询](http://zw.xixianxinqu.gov.cn/icity/govservice/convenience/house/houseContractFiling)
+- [沣东新城-商品房预售证查询](http://zw.xixianxinqu.gov.cn/icity/govservice/convenience/house/houseSalePermit)
 - [个人信用信息服务平台](https://ipcrs.pbccrc.org.cn/)
 
 ## 爱生活
