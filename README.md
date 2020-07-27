@@ -11,7 +11,7 @@
 - [97C户型](http://img360wcs.soufunimg.com/2019/03/21/xian/720/46a50dd92f774d55b6a3cfe52095dacd/html/index.html?nc=3610191114&type=quanjing&channel=newhouse&p=000&from=groupmessage&isappinstalled=0)
 
 ## 便捷政务
-- [陕西省公积金](http://www.sxgjj.com/)
+- [陕西省公积金](http://www.sxgjj.com/) [贷款进度查询](https://www.sxgjj.com/1_dkjd.jsp?urltype=tree.TreeTempUrl&wbtreeid=1285)
 - [宝鸡市公积金](http://zfgjj.baoji.gov.cn:9003/wt-web-gr/grlogin)
 - [西安市住房保障和房屋管理局](http://fgj.xa.gov.cn)
 - [西安市商品住房认购登记平台](http://zfyxdj.xa.gov.cn) [(城六区)](http://zfyxdj.xa.gov.cn/zfrgdjpt/xmgs.aspx) [(长安区)](http://zfyxdj.xa.gov.cn/zfrgdjpt/xmgsca.aspx) [!](http://124.115.228.93)
